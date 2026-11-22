@@ -1,5 +1,5 @@
 
- personal finance Manager
+ Personal Finance Manager
 
 
 
