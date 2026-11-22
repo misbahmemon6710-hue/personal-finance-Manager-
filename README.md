@@ -1,11 +1,6 @@
 
 # personal-finance-Manager-
-developed by: 
-misbah memon 
-2k26/CSM/68
-sadaf sattar
-2k26/CSM/149
-department: CSM(part 1)
+
 
 
 introduction: 
@@ -39,7 +34,12 @@ Open the project in VS Code.
 Compile the Java files.
 Run the main class.
 
-
+developed by: 
+misbah memon 
+2k26/CSM/68
+sadaf sattar
+2k26/CSM/149
+department: CSM(part 1)
 
 
 
