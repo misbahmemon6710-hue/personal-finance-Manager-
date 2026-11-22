@@ -34,12 +34,12 @@ Open the project in VS Code.
 Compile the Java files.
 Run the main class.
 
-developed by: 
-misbah memon 
+Developed by: 
+Misbah memon 
 2k26/CSM/68
-sadaf sattar
+Sadaf sattar
 2k26/CSM/149
-department: CSM(part 1)
+Department: CSM(part 1)
 
 
 
