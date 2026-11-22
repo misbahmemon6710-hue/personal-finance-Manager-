@@ -14,7 +14,7 @@ Record expenses,
 Calculate total income,
 Calculate total expenses,
 Display remaining balance and
-Technologies Used
+Technologies Used,
 Java
 
 Object-Oriented Programming (OOP):
