@@ -1,45 +1,53 @@
 
-# personal-finance-Manager-
+ personal finance Manager
 
 
 
-introduction: 
+Introduction: 
 
 Personal Finance Manager is a simple Java console-based application that helps users manage their income and expenses.
 
 Features:
 
-Add and manage income
-Record expenses
-Calculate total income
-Calculate total expenses
-Display remaining balance
+Add and manage income,
+Record expenses,
+Calculate total income,
+Calculate total expenses,
+Display remaining balance and
 Technologies Used
 Java
 
 Object-Oriented Programming (OOP):
 
 Concepts Used
-Classes and Objects
-Constructors
-Inheritance
-Abstraction
-Methods
+Classes and Objects,
+Constructors,
+Inheritance,
+Abstraction,
+Methods and
 Encapsulation
 
 How to Run:
 
 Download or clone the repository.
+
 Open the project in VS Code.
+
 Compile the Java files.
+
 Run the main class.
 
 Developed by: 
+
 Misbah memon 
 2k26/CSM/68
+
 Sadaf sattar
 2k26/CSM/149
-Department: CSM(part 1)
+
+Department: 
+
+CSM(part 1)
 
 
 
